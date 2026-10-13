@@ -23,16 +23,16 @@
 
 ## 0.5.0 · Lurivio · Beta release candidate
 
-- Project renamed from ScreenLink to Lurivio, including executable, tray, icon, settings directory and build assets.
+- Unified Lurivio branding across the executable, tray, icon, settings directory and build assets.
 - Local OpenCV QR decoding; URLs, UTF-8 text, Wi-Fi and multiline payloads.
 - Auto / OCR-only / QR-only modes with persisted preferences and cache isolation by mode.
 - Manual review for non-HTTP/HTTPS QR payloads; no opening, execution or auto-pasting.
 - Multiple QR result selection, editable multiline QR content and RU/EN translations.
-- Legacy ScreenLink preference import; no automatic legacy startup changes.
+- Legacy preference import; no automatic legacy startup changes.
 - Updated documentation, Windows build workflow, SHA-256 asset checksums and draft prereleases.
 
 
-## 0.4.0 · ScreenLink
+## 0.4.0
 
 - Нативная панель Windows со стандартными кнопками справа сверху.
 - Обычное сворачивание в панель задач; настройка закрытия в трей сохранена.
