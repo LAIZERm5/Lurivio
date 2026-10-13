@@ -1,0 +1,7 @@
+PySide6-Essentials==6.8.3
+rapidocr_onnxruntime==1.4.4
+onnxruntime>=1.17,<2
+opencv-python>=4.8,<5
+numpy>=1.24,<3
+Pillow>=10,<12
+zxing-cpp==2.3.0
