@@ -89,7 +89,7 @@ opening or pasting them, especially into a terminal.
 - Esc / right-click cancels selection without changing the clipboard.
 - The app never injects Ctrl+V, submits a search or opens a URL.
 
-## Upgrade from ScreenLink
+## Upgrade 
 
 Disable startup in the old app and fully quit it through the tray first.
 Extract Lurivio; an existing `.venv` can be kept when replacing source files.
